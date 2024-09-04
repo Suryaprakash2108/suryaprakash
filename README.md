@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing Btech #rd year<br>🤝 I’m looking for help with  gaming design<br>🌱 I’m currently learning C++<br>💬 I am here to learn the new things about the game design which i have did not seen or learn yet
+🔭 I’m currently pursuing Btech 3rd year<br>🤝 I’m looking for help with  gaming design<br>🌱 I’m currently learning C++<br>💬 I am here to learn the new things about the game design which i have did not seen or learn yet
 
 
 ## 🌐 Socials:
